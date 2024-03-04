@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+
+    background: linear-gradient(198deg, rgba(96,0,255,1) 0%, rgba(19,7,111,1) 100%);
+    color: #dedede;
+
+    font-family: "Montserrat", sans-serif;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    font-weight: 500;
+
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+
+    cursor: url("../img/cur/default.svg"), auto;
+    text-shadow: 0px 0px 14px rgba(31, 31, 31, 0.57);
+}
+
+#content {
+}
+
+#title {
+    font-size: 74px;
+}
+
+#textshit {
+    font-size: 18px;
+}
+
+.logolink {
+    display: relative;
+    cursor: url("../img/cur/handpointing.svg"), auto;
+    filter: sepia(5%) saturate(1389%) hue-rotate(184deg) brightness(115%) contrast(74%);
+}
+
