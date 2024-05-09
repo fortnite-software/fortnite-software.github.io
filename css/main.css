@@ -34,6 +34,9 @@ body {
 }
 
 .logolink {
+    width: 40px;
+    height: 40px;
+    
     display: relative;
     cursor: url("../img/cur/handpointing.svg"), auto;
     filter: sepia(5%) saturate(1389%) hue-rotate(184deg) brightness(115%) contrast(74%);
