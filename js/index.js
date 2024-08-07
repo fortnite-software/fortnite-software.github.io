@@ -1,8 +1,8 @@
 const sentences = [
     "home of the best fortnite cheats",
     "detected? never",
-    "aiming with the speed of light",
-    "leading the fortnite scene since 1488",
+    "obliterating lobbies since the beggining",
+    "detected cheats? i had 50 kills only! hello staff?",
 ];
 
 async function sleep(ms) 
